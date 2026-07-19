@@ -1,0 +1,5 @@
+{
+  "pipeline": "Pipeline completed successfully.\nOutputs written to the outputs/ folder.",
+  "tests": "\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m.\u001b[0m\u001b[32m                                                                     [100%]\u001b[0m\n\u001b[32m\u001b[32m\u001b[1m4 passed\u001b[0m\u001b[32m in 0.17s\u001b[0m\u001b[0m",
+  "files_created": 37
+}

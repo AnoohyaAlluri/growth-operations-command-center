@@ -1,0 +1,13 @@
+project_id,project_name,owner,priority,status,progress_pct,days_to_due,open_blockers,risk_score,health,blocker_titles,highest_severity
+P008,Paid Media Conversion Audit,Marketing Analytics Engineer,Critical,Blocked,47,7,1.0,14.0,Critical,API credentials pending,Critical
+P003,Website Attribution Pipeline,Marketing Technology Analyst,Critical,At Risk,54,13,1.0,9.0,Critical,Source mappings require validation,High
+P006,Direct Mail Attribution System,Campaign Analyst,High,At Risk,63,18,1.0,8.0,Critical,Campaign response source not consistently captured,High
+P002,Local Search Growth Framework,Search Strategy Lead,High,On Track,68,41,1.0,4.0,Watch,Compliance review pending,Medium
+P004,Maintenance Operations Analytics,Operations Analyst,Medium,Planning,31,89,1.0,4.0,Watch,Category taxonomy incomplete,Medium
+P011,Campaign Prediction Models,Data Analyst,Medium,Planning,28,105,1.0,4.0,Watch,Training dataset requires additional QA,Medium
+P001,Lead Intelligence System,Growth Analytics Lead,High,On Track,82,28,0.0,2.0,Healthy,No open blockers,None
+P007,Luxury Agent Outreach Pipeline,Growth Operations Analyst,High,On Track,76,45,0.0,2.0,Healthy,No open blockers,None
+P010,Executive Performance Dashboard,Business Analytics Lead,High,On Track,71,43,0.0,2.0,Healthy,No open blockers,None
+P005,Review Generation Automation,Marketing Operations Analyst,Medium,Complete,100,-18,0.0,1.0,Healthy,No open blockers,None
+P009,AI Vendor Evaluation Framework,AI Operations Analyst,Medium,Complete,100,-28,0.0,1.0,Healthy,No open blockers,None
+P012,Content Operations System,Content Operations Lead,Medium,On Track,66,59,0.0,1.0,Healthy,No open blockers,None

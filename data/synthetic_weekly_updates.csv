@@ -1,0 +1,13 @@
+update_id,project_id,week_start,accomplishment,kpi_movement,blocker_update,next_priority,leadership_attention
+U001,P001,2026-07-13,Completed synthetic QA and exception-routing validation.,QA pass rate improved after duplicate controls.,No critical blocker.,Document matching methodology.,No
+U002,P002,2026-07-13,Completed search architecture and FAQ mapping.,Priority-page completion increased.,Compliance review remains open.,Finalize internal-linking map.,No
+U003,P003,2026-07-13,Mapped form and source-capture requirements.,Verified source coverage remains below target.,Source naming requires leadership alignment.,Approve standard taxonomy.,Yes
+U004,P004,2026-07-13,Defined work-order analysis categories.,Categorization coverage increased from baseline.,Taxonomy remains incomplete.,Complete category rules.,No
+U005,P005,2026-06-29,Completed duplicate controls and send gating.,Eligible-record processing reached target.,No open blocker.,Move workflow into maintenance mode.,No
+U006,P006,2026-07-13,Reconciled delivery records and campaign identifiers.,Delivery reconciliation improved.,Response attribution remains incomplete.,Standardize source-capture fields.,Yes
+U007,P007,2026-07-13,Implemented monthly first-touch suppression.,Suppression compliance reached target.,No critical blocker.,Add automated follow-up monitoring.,No
+U008,P008,2026-07-13,Drafted conversion classification framework.,Classification coverage improved but remains below target.,API credentials block automation.,Escalate access request.,Yes
+U009,P009,2026-06-15,Completed vendor scoring and risk review.,All planned vendors were evaluated.,No open blocker.,Archive final scorecard.,No
+U010,P010,2026-07-13,"Connected projects, KPIs, blockers, and decisions.",All synthetic projects are represented.,KPI ownership remains below target.,Assign remaining KPI owners.,No
+U011,P011,2026-07-13,Created initial feature inventory.,Model-ready record coverage remains low.,Dataset QA delays modeling.,Complete validation rules.,No
+U012,P012,2026-07-13,Standardized approval stages and weekly planning.,Content completion moved toward target.,Revision volume is slightly above target.,Improve pre-review checklist.,No

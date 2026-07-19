@@ -1,0 +1,9 @@
+decision_id,project_id,decision_date,decision_title,context,decision_owner,status,follow_up_action,evidence_reference
+D001,P001,2026-07-05,Use confidence tiers for record matching,Binary match labels did not show uncertainty.,Growth Analytics Lead,Approved,"Implement High, Medium, Low, and No Match outputs.",docs/architecture.md
+D002,P002,2026-07-09,Prioritize local intent pages,Local service queries showed the strongest conversion relevance.,Search Strategy Lead,Approved,Move high-intent location pages into the first publishing wave.,docs/case_study.md
+D003,P003,2026-07-11,Standardize source parameters,Form submissions used inconsistent naming conventions.,Marketing Technology Analyst,Pending,Finalize naming schema and QA checklist.,docs/data_dictionary.md
+D004,P006,2026-07-12,Use one campaign offer name,Inconsistent CTA language weakened attribution.,Campaign Analyst,Approved,"Apply one offer name across mailer, landing page, and tracker.",docs/qa_rules.md
+D005,P008,2026-07-14,Reclassify behavioral events,Platform activity was being interpreted as qualified conversions.,Marketing Analytics Engineer,Pending,Create event taxonomy and conversion inclusion rules.,docs/qa_rules.md
+D006,P010,2026-07-15,Adopt evidence-linked project updates,Leadership summaries required source verification.,Business Analytics Lead,Approved,Require evidence references for completed milestones.,docs/case_study.md
+D007,P011,2026-07-16,Delay modeling until QA threshold is met,Current feature validation is below target.,Data Analyst,Pending,Reach 80% model-ready records before training.,docs/data_dictionary.md
+D008,P012,2026-07-17,Use standardized approval stages,Content review status was inconsistently recorded.,Content Operations Lead,Approved,"Use Draft, Review, Approved, Scheduled, and Published.",docs/qa_rules.md

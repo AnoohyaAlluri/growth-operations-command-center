@@ -1,0 +1,9 @@
+blocker_id,project_id,blocker_title,severity,business_impact,owner,status,opened_date,target_resolution_date,resolution_date,escalation_required
+B001,P003,Source mappings require validation,High,Attribution reporting may misclassify lead origin.,Marketing Technology Analyst,Open,2026-07-08,2026-07-24,,Yes
+B002,P008,API credentials pending,Critical,Paid media event reconciliation cannot be automated.,Marketing Analytics Engineer,Escalated,2026-07-03,2026-07-20,,Yes
+B003,P006,Campaign response source not consistently captured,High,Campaign ROI cannot be fully validated.,Campaign Analyst,Open,2026-07-10,2026-07-28,,Yes
+B004,P004,Category taxonomy incomplete,Medium,Operational trend analysis remains partially manual.,Operations Analyst,Open,2026-07-12,2026-08-05,,No
+B005,P011,Training dataset requires additional QA,Medium,Model development is delayed until validation is complete.,Data Analyst,Open,2026-07-15,2026-08-10,,No
+B006,P002,Compliance review pending,Medium,One content module cannot move to final publication.,Search Strategy Lead,Open,2026-07-16,2026-07-30,,No
+B007,P007,Monthly contact rule implemented,Low,Duplicate first-touch risk has been reduced.,Growth Operations Analyst,Closed,2026-07-01,2026-07-10,2026-07-10,No
+B008,P005,Historical duplicates reconciled,Low,Review outreach list is now controlled.,Marketing Operations Analyst,Closed,2026-06-10,2026-06-25,2026-06-23,No
